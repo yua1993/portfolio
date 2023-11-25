@@ -1,0 +1,100 @@
+html {
+    text-align: center;
+    
+}
+
+
+.content h2 {
+    margin: 30px 30px 30px 30px;
+}
+.abm {
+    height: 300px;
+}
+
+
+
+
+
+
+/* i can do */
+
+
+
+.skill {
+    height: 500px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.skill ol {
+    list-style: none;
+}
+
+.skill li {
+    float: left;
+}
+
+
+.skill ol li img {
+    list-style: none;
+    width: 120px;
+    height: 130px;
+    
+}
+
+
+
+
+
+
+
+
+
+/*portfolio*/
+
+
+body .Portfolio {
+    height: 700px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: Flex;
+    
+    
+}
+
+body .btn-primary {
+    background-color: #8C5F0B;
+    border: none;
+}
+
+body .btn-primary:hover {
+    background-color: #F2CD13;
+    color: #8C5F0B;
+    
+}
+
+
+
+
+
+
+/* 디자인 */
+
+body .DESIGN {
+    height: 500px;
+    width: 500px;
+    display: Flex;
+}
+
+
+body .DESIGN img {
+    height: 300px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    
+   
+}
